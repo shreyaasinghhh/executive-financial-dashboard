@@ -1,7 +1,7 @@
 # Corporate Financial Benchmark & Analytics Project
 This project is an end-to-end financial analytics pipeline built across Excel, SQL, and Power BI. It benchmarks 20 years of historical performance across key players in the Indian Automotive and FMCG sectors, focusing on revenue trajectory, operational profitability (EBITDA margin), and actual cash quality (CFO to PAT conversion).
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashoard_preview.png)
 
 ---
 
